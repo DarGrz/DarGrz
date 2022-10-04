@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dariusz-grzegorczyk-958731190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dariusz-grzegorczyk-958731190" height="30" width="40" /></a>
 <a href="https://instagram.com/dariusz_grzegorczyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dariusz_grzegorczyk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dariusz grzegorczyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dariusz grzegorczyk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
