@@ -4,8 +4,9 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/dariusz-grzegorczyk-958731190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dariusz-grzegorczyk-958731190" height="30" width="40" /></a> LinkedIn
+<a href="https://linkedin.com/in/dariusz-grzegorczyk-958731190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dariusz-grzegorczyk-958731190" height="30" width="40" /></a> 
 </p>
+<h3>LinkedIn</h4>
 <br /><br />
 
 ## :hammer_and_wrench: Technology & Tools
