@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Poland</h3>
 <br /><br />
 
-## Connect with me:
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/dariusz-grzegorczyk-958731190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dariusz-grzegorczyk-958731190" height="30" width="40" /></a>
 </p>
