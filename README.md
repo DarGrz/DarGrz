@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Dario
-<h3 align="left">A passionate frontend developer from Poland</h3>
+<h3 align="left">A passionate  developer from Poland</h3>
 <br /><br />
 
 ## Connect with me
