@@ -1,5 +1,13 @@
 ## Hi 👋, I'm Dario
-<h3 align="left">I am highly skilled and motivated JavaScript developer with experience in building interactive and responsive web applications. Proficient in various front-end technologies such as HTML, CSS, and React, as well as back-end technologies such as Node.js and Express. Strong problem-solving skills and ability to work in a team environment.</h3>
+<h3 align="left">As a Software Developer, I am eager to
+expand my skillset by exploring the
+capabilities of Salesforce. I have a
+passion for problem-solving and
+developing scalable solutions. With
+Salesforce, I see an opportunity to
+integrate powerful backend functionality
+with modern frontend technologies to
+create innovative business applications.</h3>
 <br /><br />
 
 ## Connect with me
