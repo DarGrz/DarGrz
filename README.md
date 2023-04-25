@@ -1,4 +1,4 @@
-## Hi 👋, I'm Dario
+## Hi 👋, I'm Dariusz
 <h3 align="left">As a Software Developer, I am eager to
 expand my skillset by exploring the
 capabilities of Salesforce. I have a
